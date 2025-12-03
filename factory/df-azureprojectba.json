@@ -1,0 +1,9 @@
+{
+	"name": "df-azureprojectba",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "91bb2085-e03c-45d6-9783-9b350d18af11",
+		"tenantId": "750d3a3f-1f46-4da2-8a64-7605e75ea2f9"
+	}
+}
