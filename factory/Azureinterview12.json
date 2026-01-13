@@ -1,0 +1,9 @@
+{
+	"name": "Azureinterview12",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0d841429-b11d-42d6-889f-6e762e8302f2",
+		"tenantId": "00060ade-fa19-4944-9225-da062d976573"
+	}
+}
